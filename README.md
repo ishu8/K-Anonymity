@@ -1,5 +1,7 @@
 # K-Anonymity
 
+Anonymization methods for network security.
+
 ## The Anonymization method
 - Anonymization method aims at making the individual record be indistinguishable among a group record by using techniques of generalization and suppression.
 - The rapid growth of database, networking and computing technologies, a large amount of personal data can be integrated and
@@ -31,4 +33,4 @@ about protecting the privacy of individuals.
 
 ## Implementation
 
-k-Anonymity.ipynb has the detailed solution for Anonymization methods for network security.
+k-Anonymity.ipynb file has the detailed solution for Anonymization methods for network security.
